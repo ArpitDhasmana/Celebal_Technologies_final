@@ -1,4 +1,3 @@
-````markdown
 # 🌿 Plant Condition Classifier
 
 A traditional machine learning–based image classification app that identifies **plant conditions** (e.g., healthy, rust, scab, multiple diseases) from leaf or flower images — using handcrafted features like HOG, LBP, and Color Histograms.
